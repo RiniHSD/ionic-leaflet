@@ -1,0 +1,7 @@
+{
+  "name": "leaflet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
